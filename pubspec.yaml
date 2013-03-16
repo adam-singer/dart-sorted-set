@@ -1,0 +1,8 @@
+name: sorted_set
+version: 0.2.0
+homepage: https://github.com/JosephMoniz/dart-sorted-set
+description: >
+  An array backed sorted set.
+author: Joseph Moniz <joseph.moniz@gmail.com>
+dependencies:
+  option: 0.2.1
